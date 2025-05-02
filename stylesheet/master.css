@@ -1,0 +1,21 @@
+body{
+    cursor: grab;
+    background: url(../assets/img/photo.jpg), url(../assets/img/Raindrops.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+span{
+    display: block;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 50%;
+    background: red;
+    pointer-events: none;
+    background: url(../assets/img/photo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
