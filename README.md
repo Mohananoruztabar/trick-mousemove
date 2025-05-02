@@ -1,7 +1,7 @@
 # trick-mousemove
-- [Demo Project](https://mohananoruztabar.github.io/tric-mousemove/index-js.html)
+- [Demo Project](https://mohananoruztabar.github.io/trick-mousemove/index-js.html)
 
-- ![Image]![Image](https://github.com/user-attachments/assets/44eb3d74-afdf-4a3d-ace4-ff8f4eb7aa01)
+- !![Image](https://github.com/user-attachments/assets/131d2624-5581-42cb-a5f5-737376adf3b8)
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
